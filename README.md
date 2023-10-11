@@ -1,3 +1,4 @@
+![logo](https://github.com/Aleena2Francis/Aleena2Francis/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aleena Francis</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
