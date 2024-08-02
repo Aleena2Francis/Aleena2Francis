@@ -1,14 +1,14 @@
 ![logo](https://github.com/Aleena2Francis/Aleena2Francis/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aleena Francis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A technical enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleena2francis&label=Profile%20views&color=0e75b6&style=flat" alt="aleena2francis" /> </p>
 
-- I'm currently studying **computer science and engineering**
+- I'm currently studying **computer science and engineering.**
 
-- 🌱 I’m currently learning **Web designing,DSA**
+- 🌱 I’m currently learning **Machine learning.**
 
-- 📫 How to reach me **aleenafrancis244@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/aleena-francis100203/**
 
 - ⚡ Fun fact **I am funny**
 
